@@ -1,0 +1,8 @@
+my_dict = {'amuro':'nao','age':'19'}
+print(my_dict)
+
+my_dict['aaa'] = 'bbb'
+print(my_dict)
+
+del my_dict['aaa']
+print(my_dict)

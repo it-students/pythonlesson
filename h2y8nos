@@ -1,0 +1,16 @@
+list = ['apple','orange','banana']
+print(list)
+
+list.append('pineapple')
+list.append('peach')
+print(list)
+
+list[2] = 'rice'
+print(list)
+
+item = list.pop()
+print(item)
+
+my_tuple = ('amuro','sho')
+print(my_tuple)
+print(my_tuple[1])
