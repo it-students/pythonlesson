@@ -1,0 +1,5 @@
+what=input("何が:")
+whan=input("いつ:")
+where=input("どこで:")
+do ="{}は{}に{}で{}。".format(what,when,where,do)
+print(r)
