@@ -1,0 +1,1 @@
+print("cat" + "in" + "hat")
