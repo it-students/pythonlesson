@@ -1,0 +1,2 @@
+print('Michael')
+print('Jordan')
