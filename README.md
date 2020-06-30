@@ -31,5 +31,5 @@ $ git add -A
 
 ```
 $ git commit -m 'submit'
-$ git push master ***学籍番号***
+$ git push origin ***学籍番号***
 ```
