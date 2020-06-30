@@ -1,0 +1,8 @@
+fruit = list()
+print(fruit)
+
+fruit = []
+print(fruit)
+
+fruit = ["Aplee", "Orange", "pear"]
+print(fruit)
