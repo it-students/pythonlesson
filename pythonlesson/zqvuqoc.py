@@ -1,0 +1,12 @@
+ivan = '死の代わりに一つの光があった。'
+print(ivan[0:6])
+print(ivan[6:15])
+print()
+print()
+print(ivan[:6])
+print()
+print()
+print(ivan[6:])
+print()
+print()
+print(ivan[:])
