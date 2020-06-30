@@ -1,0 +1,4 @@
+word  = ["The", "fox", "jumped",
+        "over", "the", "fence", "."]
+one = " ".join
+one
