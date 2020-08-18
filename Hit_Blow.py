@@ -1,16 +1,17 @@
 import random
+
 ans = []
 for _ in range(10):
-    rand = random.randint(0,9)
+    rand = random.randint(0, 9)
     if rand in ans:
         pass
     else:
         ans += [rand]
     if len(ans) == 4:
         break
-    
+
 while True:
-    n = int(input('4桁の数字を入力してください?'))
+    n = int(input("4桁の数字を入力してください?"))
     if n < 10000:
         hit = 0
         blow = 0
@@ -21,9 +22,9 @@ while True:
                     hit += 1
                 else:
                     blow += 1
-        print('hit:{}, blow:{}'.format(hit, blow))
+        print("hit:{}, blow:{}".format(hit, blow))
         if hit == 4:
-            print('正解です')
+            print("正解です")
             break
     else:
-        print('範囲外です')
+        print("範囲外です")
