@@ -32,4 +32,4 @@ $ git add -A
 ```
 $ git commit -m 'submit'
 $ git push origin ***学籍番号***
-```
+```# hoge.py
